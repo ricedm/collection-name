@@ -12,7 +12,7 @@ url: https://ricedm.github.io/collection-name/
 # baseurl is your github repository's name prefixed with a /
 baseurl: /collection-name
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/ricedm/collection-name
 
 ##########
 # SITE SETTINGS
