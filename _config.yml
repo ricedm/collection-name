@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://ricedm.github.io/collection-name/
+url: https://ricedm.github.io/davis_photos/
 # baseurl is your github repository's name prefixed with a /
-baseurl: /collection-name
+baseurl: /davis_photos
 # location of code, the full url to your github repository
-source-code: https://github.com/ricedm/collection-name
+source-code: https://github.com/ricedm/davis_photos
 
 ##########
 # SITE SETTINGS
